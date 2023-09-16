@@ -2,5 +2,6 @@
 title: "Robin Yuen"
 ---
 
-This is a website.
+I am from Hong Kong, now currently working on a master in data science at the University of British Colombia, Canada. 
 
+I had been a technical & research leader in two startups, including "Flying Milk Tea", which I founded.
